@@ -23,3 +23,6 @@ Stuff i wanna learn:
     Django , Three.js , Rust , Scala , Go , cython , JVM(the VM) , OS-DEV , linux kernel hacking , Gentoo , Blender, Unity , some basic Graphic Design. Dart + Flutter, React Native.
 
 I Currently love the terminal :5 
+
+
+I Love giving back to the community and am a Open Source Enthusiast    {-\*-\*-}
