@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to My Site!
 
-You can use the [editor on GitHub](https://github.com/elegantShock2258/elegantshock2258/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
+I dunno What to put here tbh but think i will have something here in the future :P
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Hi I am ElegantShock2258 :D
 
-### Markdown
+I am a passionatee developer sharing the same planet as you :3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I love designing programs with abstract concepts and models. I am a strong learner by doing (\*.\*)
+Who is intriged by the integration of multiple tech stacks and languages, low level programming.
+UI's are a thing that attract me , it finally fells like you're making an app. :P
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+I use bedrock linux btw :P
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Adequetly Experinced in 
 
-**Bold** and _Italic_ and `Code` text
+    Linux, Java , HTML/CSS/JS , TypeScript , Sass , Vi(m) , Git , GNU core-utils , C / C++ , (z)sh , Python , Kotlin , nginx , apache httpd.
 
-[Link](url) and ![Image](src)
-```
+Some frameworks and libraries i like:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    React, Spring , JavaFX , OpenGL.
 
-### Jekyll Themes
+Stuff i wanna learn:
+    
+    Django , Three.js , Rust , Scala , Go , cython , JVM(the VM) , OS-DEV , linux kernel hacking , Gentoo , Blender, Unity , some basic Graphic Design. Dart + Flutter, React Native.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elegantShock2258/elegantshock2258/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I Currently love the terminal :5 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I Love giving back to the community and am a Open Source Enthusiast    {-\*-\*-}
